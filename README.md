@@ -1,1 +1,0 @@
-# discord-14-ts-template
